@@ -1,2 +1,5 @@
 ![banner](assets/banner.png "Main banner")
-Alt-H2 Hello there!
+<div justify="center">
+    <h3>Hello There!</h3>
+</div>
+<hr/>
