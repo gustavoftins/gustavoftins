@@ -11,6 +11,7 @@ work with Java Web, as well as SQL, and web development. Currently I'm part of a
 
 <h3>📩 Where to reach me:</h3>
 
+<a href="https://www.linkedin.com/in/gustavofrmartins/">
 ![linkedin](assets/linkedin.png "Linkedin Link")
-
+</a>
 
