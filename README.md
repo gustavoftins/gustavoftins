@@ -10,6 +10,17 @@ I started my career at the beginning of 2019 being part of a 6 month Java Develo
 work with Java Web, as well as SQL, and web development. Currently I'm part of a project structured with microservices patterns and DevOps environment that give me the opportunity to work with technologies as Docker, Kubernetes, RabbitMQ, Azure DevOps on a daily basis.
 
 <h3>Reach me at:</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/gustavofrmartins/">
+        <img src="assets/linkedin.png" alt="Linkedin Link" />
+    </a>
+    <a href="mailto:martins.gustavofr@gmail.com">
+        <img src="assets/mail.png" alt="Mail Link" />
+    </a>
+    <a href="">
+        <img src="assets/twitter.png" alt="Twitter Link" />
+    </a>
+</div>
 [![linkedin](assets/linkedin.png "Linkedin Link")](https://www.linkedin.com/in/gustavofrmartins/)
 [![mail](assets/mail.png "Mail Link")](mailto:martins.gustavofr@gmail.com)
-[![twitter](assets/twitter.png "Twitter Link")](https://www.linkedin.com/in/gustavofrmartins/)
+[![twitter](assets/twitter.png "Twitter Link")]('')
