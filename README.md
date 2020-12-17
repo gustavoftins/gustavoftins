@@ -1,6 +1,6 @@
 ![banner](assets/banner.png "Main banner")
 <div align="center">
-    <h3>Hey there!🤙🏾</h3>
+    <h3>Hey there!👋🏾</h3>
 </div>
 <hr/>
 <h3>About me:</h3>
